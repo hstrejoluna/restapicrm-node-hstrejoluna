@@ -1,0 +1,23 @@
+{
+  "name": "backend-restapi-crud",
+  "version": "1.0.0",
+  "description": "Backend Express RestAPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Node",
+    "Express"
+  ],
+  "author": "Hector Sebastian Trejo Luna",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
